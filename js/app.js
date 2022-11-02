@@ -1,0 +1,1 @@
+// manipular o dom e exibir as info na tela
