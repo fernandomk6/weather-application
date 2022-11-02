@@ -1,4 +1,4 @@
-# weather-application
+# Weather Application
 
 Uma aplicação aonde é possível visualizar o clima de qualquer cidade
 do **mundo** em **tempo real**.
